@@ -1,0 +1,7 @@
+export OS_AUTH_URL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=clear
+export OS_PROJECT_DOMAIN_NAME=clear
+export OS_USERNAME=vbd
+export OS_USER_DOMAIN_NAME=sdf
+export OS_PASSWORD=sdf
